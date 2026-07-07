@@ -10,10 +10,10 @@ title: Ethic4NLP-2026
 
 ## Organising team
 
-Beáta Magyesi, Stockholm University
-Simon Dobnik, University of Gothenburg
-...
-Your name?
+  - Beáta Magyesi, Stockholm University
+  - Simon Dobnik, University of Gothenburg
+  - ...
+  - Your name?
 
 
 ## Acknowledgements
