@@ -1,0 +1,25 @@
+theme: jekyll-theme-cayman 
+description: "The Second Workshop on Ethics for Research and Teaching in Natural Language Processing" 
+url: "https://resourceful-workshop.github.io"
+baseurl: "/ethics-for-nlp-2026"
+repository: "resourceful-workshop/ethics-for-nlp-2026"
+basepath: "resourceful-2026/"
+
+
+navigation:
+  - text: Home
+    url: /index.html
+  - text: Programme
+    url: /schedule.html
+  - text: Accepted papers
+    url: /papers.html
+  - text: Keynote speakers
+    url: /invited_speakers.html
+  - text: Presentation details
+    url: /presentations.html
+  - text: Important dates
+    url: /dates.html
+  - text: Submission details
+    url: /submission_details.html
+  - text: Organisation
+    url: /organisation.html
