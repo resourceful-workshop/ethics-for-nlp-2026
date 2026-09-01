@@ -56,9 +56,6 @@ This workshop is the second in the series and builds on discussions held over se
 
 The purpose of the workshop is to further discuss these topics from a research perspective and strengthen connections with the teaching of language technology at Swedish universities, as well as its use in commercial companies, organisations, and society more broadly.
 
-The workshop is a focus track of the RESOURCEFUL-2026 workshop series within the special interest group of NEALT ([SIG RESOURCEFUL](https://nealt-org.github.io/sigs/)).
-
-
 ## Contact
 
 [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik) and [Beáta Megyesi](https://www.su.se/english/profiles/b/beba5639)
