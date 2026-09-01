@@ -8,6 +8,8 @@ title: Ethics4NLP-2026
         {% assign basepath = "" %}
         {% endif %}
 
+# The Second Workshop on Ethics for Research and Teaching in Natural Language Processing
+
 Co-located with [The Swedish Language Technology Conference (SLTC)](https://www.ltu.se/en/research/research-subjects/machine-learning/the-swedish-language-technology-conference), Luleå University of Technology.
 
 ## Important information
