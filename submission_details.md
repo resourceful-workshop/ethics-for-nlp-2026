@@ -12,4 +12,4 @@ We invite submissions of extended abstracts of 2 to 4 pages (excluding reference
 
 Accepted extended abstracts will be made available on the conference website. Submissions may report work that has been previously published elsewhere. The review process for extended abstracts will be single-blind and conducted by the programme committee.
 
-To make a submission, zip all your files, name the resulting archive ``name_surname.zip``, and upload it [here](https://sigmoid.flov.gu.se/index.php/s/pj4MxjJ9bLawNf6) We will use the contact details of the main author of the abstract unless indicated otherwise.
+To make a submission, zip all your files, name the resulting archive ``name_surname.zip``, and upload it [here](https://sigmoid.flov.gu.se/index.php/s/pj4MxjJ9bLawNf6). We will use the contact details of the main author of the abstract unless indicated otherwise.
