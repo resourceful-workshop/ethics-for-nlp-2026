@@ -34,7 +34,7 @@ title: Ethics4NLP-2026
     </tr> 
     <tr> 
         <td style="border: none;">Workshop day:</td> 
-        <td style="border: none;">2026-11-20</td> 
+        <td style="border: none;">2026-11-25</td> 
     </tr> 
 </table>     
 
