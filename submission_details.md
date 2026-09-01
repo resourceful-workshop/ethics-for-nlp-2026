@@ -8,4 +8,6 @@ title: Ethics4NLP-2026
         {% assign basepath = "" %}
         {% endif %}
 
-Submissions of up to 4 pages should follow the SLTC formatting template, preferably they should be in English and contain full contact information of the presenter(s). Authors are also encouraged to submit any other information that they would like to discuss and share about this topic, for example teaching materials, details of courses, reports about ethics initiatives in the field, within society and similar.
+We invite submissions of extended abstracts of 2 to 4 pages (excluding references), formatted using the ACL style files (available on [GitHub](https://acl-org.github.io/ACLPUB/formatting.html) and [Overleaf](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj)). Authors may include appendices of any length. We particularly encourage submissions describing teaching materials, datasets, tools, methodologies, and other resources developed for teaching and research in this area that authors wish to share with the wider community.
+
+Accepted extended abstracts will be made available on the conference website. Submissions may report work that has been previously published elsewhere. The review process for extended abstracts will be single-blind and conducted by the programme committee.
